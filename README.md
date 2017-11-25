@@ -1,0 +1,2 @@
+# StatMate
+Statistics visualizer.
